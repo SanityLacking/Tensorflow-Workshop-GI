@@ -15,3 +15,4 @@ To get started:
 For Titanic
 * install pandas 		- pip3 install pandas
 * install sklearn		- pip3 install sklearn
+* install scipy			- pip3 install scipy
