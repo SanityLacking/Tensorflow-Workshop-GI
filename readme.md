@@ -11,3 +11,7 @@ To get started:
 * install numpy 		- pip3 install numpy
 * install matplotlib 		- pip3 install matplotlib
 * run jupyter notebook  	- jupyter notebook
+
+For Titanic
+* install pandas 		- pip3 install pandas
+* install sklearn		- pip3 install sklearn
